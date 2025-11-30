@@ -111,8 +111,12 @@ A compact, low-power telemetry link designed for smartwatches and wearable devic
 - samples/watch_app — sensor sampling, power management, and example usage
 
 ## VitaLink Smartwatch – Concept Design Models
-- These 3D concept models illustrate the early design exploration of VitaLink, showing different shapes, sensor placements, and ergonomics as we refined the smartwatch for reliable, worker-focused use.
+- The 3D model presents a detailed visualization of the VitaLink smartwatch, highlighting its overall shape, body structure, and ergonomic design. It helps demonstrate how sensors, buttons, and internal components are arranged, giving a realistic preview of the final physical device.
 <p align="center"><img src="conception1.jpg" alt="Conception 1" width="200" /> <img src="conception2.jpg" alt="Conception 2" width="200" /> <img src="conception3.jpg" alt="Conception 3" width="200" /></p>
+- The 2D model breaks the smartwatch down into clean technical views, showing precise dimensions, outlines, and component placement. This layout supports the engineering process by ensuring accuracy in sizing, alignment, and integration before moving into full prototyping.
+<p align="center">
+  <img src="model1.jpg" alt="Model 1" width="300" /> <img src="model2.jpg" alt="Model 2" width="300" /> <img src="model3.jpg" alt="Model 3" width="300" />
+</p>
 
 
 ## Quick troubleshooting
