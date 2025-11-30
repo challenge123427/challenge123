@@ -119,7 +119,7 @@ A compact, low-power telemetry link designed for smartwatches and wearable devic
 </p>
 
 
-## BCP Design
+## PCP Design
 - The BCP design forms the protective back cover of the VitaLink smartwatch, securing internal components and ensuring stable sensor contact. It enhances durability, comfort, and reliability in tough work environments.
 <p align="center">
   <img src="3D.jpg" alt="3D Smartwatch Model" width="350" />
