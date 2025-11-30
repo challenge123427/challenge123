@@ -119,6 +119,9 @@ A compact, low-power telemetry link designed for smartwatches and wearable devic
 </p>
 
 
-## Quick troubleshooting
-- west build errors: verify Zephyr SDK path and environment variables.
-- For BLE issues: check permission to access device (on Linux) and confirm proper SoftDevice/bootloader if using Nordic SDK.
+## BCP Design
+<p align="center">
+  <img src="3D.jpg" alt="3D Smartwatch Model" width="350" />
+  <img src="2D.jpg" alt="2D Smartwatch Model" width="350" />
+</p>
+
