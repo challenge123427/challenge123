@@ -41,7 +41,7 @@ A compact, low-power telemetry link designed for smartwatches and wearable devic
 - Recommended: VS Code with "C/C++" and "Cortex-Debug" extensions
 - Hardware: development board with BLE (nRF52 family recommended) or use native_posix for emulation
 
-## user overview
+## User Overview
 - Secure login portal for the Vitalink safety monitoring system
 -  Live dashboard displaying a worker's real-time health vitals and device status
 - Alert and data management settings for configuring safety thresholds
@@ -98,14 +98,14 @@ A compact, low-power telemetry link designed for smartwatches and wearable devic
   - secure_comm_send/receive round-trip
   - token issuance and short TTL enforcement
   - connection behavior under typical smartwatch duty cycles
-## Accuracy To assess Heart Rate
+## Accuracy To Assess Heart Rate
 - The heart-rate sensor in the VitaLink smartwatch monitors workers’ pulse in real time to ensure safety, detect strain early, and support reliable on-the-job health tracking
 <p align="center">
   <img src="sensors.png" alt="Sensors" width="400">
 </p>
 
 
-## Where to look
+## Where To Look
 - src/comm/secure_comm.c — session management and token stubs
 - src/transport/ — BLE/LoRa adapters and platform hooks
 - samples/watch_app — sensor sampling, power management, and example usage
